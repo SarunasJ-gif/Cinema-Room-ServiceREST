@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-classes-java.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-generated-sources-annotationProcessor-java.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-generated-sources-headers-java.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-reports-tests.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-test-results.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task-build-tmp.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Cinema_Room_REST_Service-task.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Custom_threads-Message_notifier_as_a_thread.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Custom_threads-Numbers_filter.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Custom_threads-Theory.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Inner_classes-Improve_your vehicle.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Inner_classes-Nested_or_inner.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Inner_classes-New_Inner_class.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Inner_classes-Pumpkin_and_candle.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Inner_classes-Theory.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Inner_classes-Why_do_we_need_inner_classes.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-The_Map_interface-Basics_of_Maps.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-The_Map_interface-Displaying_pairs.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-The_Map_interface-Theory.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_management-Calculate_the_number_of_distinct_characters.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_management-Join.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_management-The_order_of_lines.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_management-Theory.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_management-VeganPizza.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_synchronization-Countdown_counter.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_synchronization-Methods.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_synchronization-Multithreaded_counter.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_synchronization-Theory.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_synchronization-Thread_synchronization_in_Java.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_synchronization-What_is_wrong.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Thread_synchronization-Where_it_is_possible_to_write_synchronized.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Threads_as_objects-Counting_threads.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Threads_as_objects-Getting_current_thread_info.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Threads_as_objects-Is_thread_daemon.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Threads_as_objects-Theory.main" target="16" />
+      <module name="Cinema_Room_REST_Service.Topics-Threads_as_objects-Thread_name.main" target="16" />
+      <module name="Cinema_Room_REST_Service.util.main" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
